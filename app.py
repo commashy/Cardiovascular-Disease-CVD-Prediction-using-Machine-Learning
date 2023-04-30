@@ -1,8 +1,5 @@
 from catboost import CatBoostClassifier
-import numpy as np
-import pandas as pd
 import streamlit as st 
-from PIL import Image
 
 
 # Load the trained model
