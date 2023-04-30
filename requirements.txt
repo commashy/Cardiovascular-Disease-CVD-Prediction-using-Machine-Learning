@@ -1,1 +1,1 @@
-python -m pip install catboost
+python pip install catboost
