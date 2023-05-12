@@ -8,3 +8,6 @@ The project used a dataset of 70,000 samples from Kaggle, which was further refi
 We then experimented with various machine learning algorithms, and selected the CatBoost Classifier for its superior performance and interpretability. Through hyperparameter optimization and extensive model training, our final model achieved an accuracy of 0.7315, precision of 0.7432, recall of 0.6835, and an F1-score of 0.7121.
 
 This repository serves as a comprehensive resource for those interested in leveraging machine learning for medical diagnostics and preventative healthcare. Explore our code, findings, and methodologies, and feel free to contribute or suggest improvements.
+
+## Dataset
+https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
